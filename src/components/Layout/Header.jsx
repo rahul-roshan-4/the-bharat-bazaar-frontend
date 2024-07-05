@@ -147,7 +147,8 @@ m350 0 c0 -5 -13 -9 -30 -9 -35 0 -34 -3 -14 46 l16 38 14 -33 c8 -18 14 -37
 -16 13 -36 14 -42z"
                   />
                 </g>
-              </svg>            </Link>
+              </svg>
+            </Link>
           </div>
           {/* search box */}
           <div className="w-[50%] relative">
